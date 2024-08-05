@@ -50,7 +50,7 @@ Ingress manages external access to services within a cluster, typically HTTP and
 
 ### Example Architecture Diagram
 
-![Kubernetes Architecture Diagram](assets/kubernetes-architecture-diagram.png)
+![Kubernetes Architecture](../assets/kubernetes/kubernetes-architecture.webp)
 
 In the diagram above:
 - The Master Node contains the API Server, etcd, Controller Manager, and Scheduler.
