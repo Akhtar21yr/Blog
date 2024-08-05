@@ -72,6 +72,7 @@ To ensure Jenkins is accessible, you need to open port 8080. This is especially 
 
 ### Step 6: Access Jenkins
 Open your web browser and navigate to http://localhost:8080 or http://YOUR-IP:8080 to access the Jenkins setup screen.
+
 ![Jenkin-Url](../assets/jenkins/jenkins-url.png)
 
 
