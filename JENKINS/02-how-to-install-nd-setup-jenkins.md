@@ -67,7 +67,7 @@ sudo systemctl start jenkins
 sudo systemctl enable jenkins
 ```
 
-### Step 5: Step 5: Open Port 8080
+### Step 5: Open Port 8080
 To ensure Jenkins is accessible, you need to open port 8080. This is especially important if you're running Jenkins on a cloud instance or within a Virtual Private Cloud (VPC). The process for opening port 8080 varies depending on your cloud provider. Follow the specific instructions for your cloud platform to open port 8080 and allow access to Jenkins.
 
 ### Step 6: Access Jenkins
