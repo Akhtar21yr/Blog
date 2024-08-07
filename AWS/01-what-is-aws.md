@@ -1,12 +1,12 @@
 # What is AWS?
 
-![AWS Logo](../assets/aws/aws-logo.png)
+![AWS Logo](../assets/aws/01-what-is-aws/aws-logo.png)
 
 Amazon Web Services (AWS) is a comprehensive and widely adopted cloud platform offered by Amazon. It provides a broad set of cloud-based services, including computing power, storage options, and networking capabilities, which help businesses scale and grow. AWS is known for its flexibility, scalability, and reliability, making it a popular choice for companies of all sizes.
 
 ## Key Features of AWS
 
-![AWS Logo](../assets/aws/aws-services.png)
+![AWS Logo](../assets/aws/01-what-is-aws/aws-services.png)
 
 ### 1. **Compute Services**
 AWS offers scalable computing power through services like Amazon EC2 (Elastic Compute Cloud) and AWS Lambda. These services enable users to run virtual servers or serverless functions with ease.

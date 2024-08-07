@@ -1,6 +1,6 @@
 # What is Kubernetes?
 
-![Kubernetes Logo](../assets/kubernetes/kubernetes-logo.webp)
+![Kubernetes Logo](../assets/kubernetes/01-what-is-kubernetes/kubernetes-logo.webp)
 
 Kubernetes, often abbreviated as K8s, is an open-source container orchestration platform designed to automate the deployment, scaling, and management of containerized applications. Originally developed by Google, it is now maintained by the Cloud Native Computing Foundation (CNCF) and has become the de facto standard for container orchestration.
 

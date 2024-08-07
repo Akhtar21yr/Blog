@@ -1,6 +1,6 @@
 # Architecture of Kubernetes
 
-![Kubernetes Architecture](../assets/kubernetes/kubernetes-architecture.webp)
+![Kubernetes Architecture](../assets/kubernetes/02-kubernetes-architecture/kubernetes-architecture.webp)
 
 Kubernetes uses a master-slave architecture to manage and orchestrate containerized applications. It consists of several components that work together to maintain the desired state of the applications running in the cluster.
 

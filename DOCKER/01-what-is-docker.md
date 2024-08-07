@@ -1,11 +1,11 @@
 # What is Docker?
 
-![Docker Logo](../assets/docker/docker-logo.png)
+![Docker Logo](../assets/docker/01-what-is-docker/docker-logo.png)
 
 Docker is an open-source platform that automates the deployment, scaling, and management of applications using containerization technology. Containers are lightweight, portable, and ensure consistency across different environments, making it easier to build, ship, and run applications.
 
 ## Key Features of Docker
-![Docker feature](../assets/docker/docker-features.png)
+![Docker feature](../assets/docker/01-what-is-docker/docker-features.png)
 
 ### 1. **Containerization**
 Docker containers package applications and their dependencies into a single, portable unit. This ensures that applications run consistently regardless of where they are deployed.

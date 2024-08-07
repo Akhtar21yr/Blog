@@ -13,7 +13,7 @@ Creating your first instance on AWS is a crucial step towards harnessing the pow
 2. **Sign in**
    - Once your account is created, sign in to the [AWS Management Console](https://aws.amazon.com/console/).
 
-   ![alt text](../assets/aws/aws-consloe-home.png)
+   ![alt text](../assets/aws/02-first-ec2/aws-consloe-home.png)
 
 ### Step 2: Navigate to the EC2 Dashboard
 
@@ -26,7 +26,7 @@ Creating your first instance on AWS is a crucial step towards harnessing the pow
 1. **Click "Launch Instance"**
    - On the EC2 Dashboard, click the "Launch Instance" button.
 
-    ![alt text](../assets/aws/ec2-dashboard.png)
+    ![alt text](../assets/aws/02-first-ec2/ec2-dashboard.png)
 
 2. **Choose an Amazon Machine Image (AMI)**
    - AMIs are pre-configured templates for your instances. Choose an AMI that best suits your needs. For this guide, we'll use the free-tier eligible "Amazon Linux 2 AMI (HVM), SSD Volume Type."
@@ -38,12 +38,12 @@ Creating your first instance on AWS is a crucial step towards harnessing the pow
    - Click "Next: Configure Instance Details."
    - Here, you can configure various options like the number of instances, network settings, and IAM roles. For a simple setup, you can leave the default settings and click "Next: Add Storage."
 
-   ![alt text](../assets/aws/ec2-ami.png)
+   ![alt text](../assets/aws/02-first-ec2/ec2-ami.png)
 
 5. **Add Storage**
    - The default storage configuration should be sufficient. You can adjust the storage size if needed. Click "Next: Add Tags."
 
-   ![alt text](../assets/aws/image.png)
+   ![alt text](../assets/aws/02-first-ec2/image.png)
 
 6. **Add Tags**
    - Tags are key-value pairs that help you identify your instances. For example, you can add a tag with the key "Name" and value "MyFirstInstance." Click "Next: Configure Security Group."
