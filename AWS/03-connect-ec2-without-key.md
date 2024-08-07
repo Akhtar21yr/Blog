@@ -15,7 +15,7 @@ Initially, use the SSH method with your key pair to connect to your instance:
 ```ssh
 ssh -i "your-key-pair.pem" ec2-user@your-instance-public-dns
 ```
-![aws-sh-text](./aws-smd-ssh-key.png)
+![aws-sh-text](../assets/aws/03-connect-ec2-without-key/aws-smd-ssh-key.png)
 OR (if you don't have key)
 
 connect through browser cli provided by amazon.
@@ -39,7 +39,7 @@ to:
 PasswordAuthentication yes
 ```
 #### Press "control + s " to save
-![alt text](./image.png)
+![alt text](../assets/aws/03-connect-ec2-without-key/ssh_config.png)
 
 
 **2.Edit the 60-cloudimg-settings File:**
