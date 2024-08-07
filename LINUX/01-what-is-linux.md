@@ -1,11 +1,11 @@
 # What is Linux?
 
-![Linux Logo](../assets/linux//linux-logo.webp)
+![Linux Logo](../assets/linux/01-what-is-linux/linux-logo.webp)
 
 Linux is an open-source, Unix-like operating system kernel that serves as the foundation for many different operating systems, commonly referred to as Linux distributions. It is known for its stability, security, and versatility, making it a popular choice for servers, desktops, and embedded systems.
 
 ## Key Features of Linux
-![Linux Logo](../assets/linux/linux-features.png)
+![Linux Logo](../assets/linux/01-what-is-linux/linux-features.png)
 
 ### 1. **Open Source**
 Linux is freely available and its source code can be modified and redistributed by anyone. This open-source nature fosters community collaboration and innovation.

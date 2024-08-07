@@ -1,6 +1,6 @@
 # How to Install and Set Up Jenkins on Linux
 
-![Jenkins Logo](../assets/jenkins/jenkin.png)
+![Jenkins Logo](../assets/jenkins/02-how-to-install-nd-setup-jenkins//jenkin.png)
 
 Jenkins is an open-source automation server that facilitates continuous integration and continuous delivery (CI/CD) in software development. This guide will walk you through the steps to install and set up Jenkins on a Linux system.
 
@@ -73,7 +73,7 @@ To ensure Jenkins is accessible, you need to open port 8080. This is especially 
 ### Step 6: Access Jenkins
 Open your web browser and navigate to http://localhost:8080 or http://YOUR-IP:8080 to access the Jenkins setup screen.
 
-![Jenkin-Url](../assets/jenkins/jenkins-url.png)
+![Jenkin-Url](../assets/jenkins/02-how-to-install-nd-setup-jenkins/jenkins-url.png)
 
 
 ### Step 7: Unlock Jenkins
@@ -81,10 +81,10 @@ During the initial setup, Jenkins requires an unlock key. Retrieve the initial a
 ```sh
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
-![jenkins-init-pass-cmd](../assets/jenkins/jenkins-initial-pass-cmd.png)
+![jenkins-init-pass-cmd](../assets/jenkins/02-how-to-install-nd-setup-jenkins/jenkins-initial-pass-cmd.png)
 
 Copy & past These password at Start page
-![Jenkins start page](../assets/jenkins/jenkint-start-page.png)
+![Jenkins start page](../assets/jenkins//02-how-to-install-nd-setup-jenkins/jenkint-start-page.png)
 
 
 ### Step 8: Customize Jenkins
@@ -93,7 +93,7 @@ Copy & past These password at Start page
 
 **2.Create First Admin User:**
 - After the plugins are installed, you will be prompted to create the first admin user. Fill in the details and click 'Save and Finish.'
-![alt text](../assets/jenkins/jenkins-first-admin.png)
+![alt text](../assets/jenkins/02-how-to-install-nd-setup-jenkins/jenkins-first-admin.png)
 **3.Instance Configuration:**
 - Confirm the Jenkins URL and click 'Save and Finish.'
 
