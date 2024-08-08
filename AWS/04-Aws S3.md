@@ -4,7 +4,7 @@
 
 Amazon Simple Storage Service (S3) is a scalable, reliable, and secure object storage service designed for a wide range of use cases, including data backup, content storage, and big data analytics. In this blog post, we'll explore the basics of Amazon S3, how to set up an S3 bucket, and how to manage object storage effectively.
 
-**![][image1]**
+**![aws-s3][image1]**
 
 ## **What is Amazon S3?**
 
