@@ -4,6 +4,8 @@
 
 Amazon Elastic Block Store (EBS) is a high-performance block storage service designed to be used with Amazon EC2 instances. It provides persistent storage that can be scaled independently from compute resources. In this blog post, we’ll explore what Amazon EBS is, its key features, and how to create and attach an EBS volume to an EC2 instance.
 
+![aws-ebs](../assets/aws/05-aws-ebs/Amazon-EBS.jpg)
+
 ## **What is Amazon EBS?**
 
 Amazon EBS provides block-level storage volumes that are highly available, durable, and designed for use with Amazon EC2. These volumes act like raw, unformatted block devices, and you can mount them as file systems, run a database, or even use them in RAID configurations. EBS is ideal for applications that require a high level of performance and reliability, such as databases, file systems, and enterprise applications.
