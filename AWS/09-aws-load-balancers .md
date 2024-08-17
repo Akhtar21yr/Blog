@@ -1,7 +1,7 @@
 # **Load Balancers in AWS**
 
 
-# ![aws-load-balancer](../assets/aws/08-aws-load-balancer/aws-load-balancer.png)
+# ![aws-load-balancer](../assets/aws/09-aws-load-balancer/aws-load-balancer.png)
 
 ## **What is a Load Balancer?**
 
