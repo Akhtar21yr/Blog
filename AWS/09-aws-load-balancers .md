@@ -69,5 +69,6 @@ AWS offers three types of Load Balancers:
 
 ## **Conclusion**
 
+
 AWS Load Balancers are critical components for building scalable, highly available, and resilient applications. By distributing traffic across multiple instances and managing SSL termination, they ensure that your applications can handle varying loads and stay responsive to user demands.
 
