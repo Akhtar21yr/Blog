@@ -5,6 +5,8 @@
 
 ## **What is a Load Balancer?**
 
+
+
 In AWS, a Load Balancer is a service that automatically distributes incoming application traffic across multiple targets, such as EC2 instances, containers, and IP addresses. Load Balancers help to ensure that no single server bears too much load, improving application availability, fault tolerance, and responsiveness.
 
 ## **Types of Load Balancers in AWS**
