@@ -1,3 +1,4 @@
+![akhtar-raza](./assets/mine/github-banner-mine.png)
 # Blog Written By Me On DevOps
 
 Discover the world of Linux, AWS, CI/CD, Kubernetes, Cloud, and DevOps with my blog. Dive into tutorials, insights, and tips on the latest DevOps, development, and automation tools. Join the journey to mastering modern development and operations with tools like Django, Flask, SQL, NoSQL, and various automation tools.
