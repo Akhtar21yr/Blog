@@ -2,7 +2,7 @@
 ## **Remotely Data Transfer: EC2 to EC2 Using Key or Password**
 Transferring data between two AWS EC2 instances can be done securely using SSH with either an SSH key pair or a password (though SSH keys are the recommended method for security).
 
-![alt text](scp-between-linux-computers-featured-removebg-preview.png)
+![alt text](../assets/aws/12-ec2-to-ec2/scp-between-linux-computers-featured-removebg-preview.png)
 * #### **Pre-Requisites**
 
   * **SSH Access**: Ensure that both EC2 instances have SSH access enabled (TCP port 22 open) in their security groups.  
