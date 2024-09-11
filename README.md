@@ -38,6 +38,7 @@ blog
   │    ├─── 12-aws-ec2-to-ec2-data-transfer.md
   │    ├─── 13-aws-ecs.md
   │    ├─── 14-deploy_django_gunicorn_nginx_ec2.md
+  │    ├─── 15-configure-websocket-with-Gunicorn&Uvicorn.md
   │
   ├───DOCKER
   │    ├─── 01-what-is-docker.md
@@ -57,6 +58,8 @@ blog
   │
   └───LINUX
        ├─── 01-what-is-linux.md
+       ├─── 02-journalctl_guide.md
+       ├─── 03-systemctl_introduction.md
 ```
 
 
@@ -79,6 +82,7 @@ blog
   - [12-aws-ec2-to-ec2-data-transfer.md](./AWS/12-aws-ec2-to-ec2-data-transfer.md)
   - [13-aws-ecs.md](./AWS/13-aws-ecs.md)
   - [14-deploy_django_gunicorn_nginx_ec2.md](./AWS/14-deploy_django_gunicorn_nginx_ec2.md)
+  - [15-configure-websocket-with-Gunicorn&Uvicorn.md](./AWS/15-configure-websocket-with-Gunicorn&Uvicorn.md)
 
 - **DOCKER**
   - [01-what-is-docker.md](./DOCKER/01-what-is-docker.md)
@@ -98,6 +102,8 @@ blog
 
 - **LINUX**
   - [01-what-is-linux.md](./LINUX/01-what-is-linux.md)
+  - [02-journalctl_guide.md](./LINUX/02-journalctl_guide.md)
+  - [03-systemctl_introduction.md](./LINUX/03-systemctl_introduction.md)
 
 
 
